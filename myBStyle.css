@@ -1,0 +1,28 @@
+/* this my CSS to overrade Bootstrap */
+
+body {
+    background-image: url("fog.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+        opacity: 0.9;
+}
+
+canvas.canvasjs-chart-canvas {
+    
+    height: 250px !important;
+    margin-top: 40 px !important;
+}
+
+a.canvasjs-chart-credit {
+    
+    display: none;
+}
+
+/*iframe {
+    
+     height: 200px !important;
+     width: 300px !important;
+    margin-top: 40 px !important;
+    
+}*/
